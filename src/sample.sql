@@ -1,1 +1,1 @@
-"# SnowflakeRepository" 
+SELECT * FROM SVC_TCR_REGULATIONS;
